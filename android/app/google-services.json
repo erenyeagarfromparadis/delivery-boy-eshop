@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "612150995234",
+      "project_id": "eshop2-8cb3a",
+      "storage_bucket": "eshop2-8cb3a.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:612150995234:android:d0530f93f98f6c8a171d7b",
+          "android_client_info": {
+            "package_name": "com.wrteam.eshop"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "612150995234-7rrkg49bo8cua4g6d48f0ukl8k2o7i79.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAD33a8AxO944aj999n_bY3e6CVpHCJf0M"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "612150995234-7rrkg49bo8cua4g6d48f0ukl8k2o7i79.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
